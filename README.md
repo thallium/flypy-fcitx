@@ -17,3 +17,5 @@ Arch linux 用户:
 2. 自定义 fcitx 配置: 修改 flypy.conf 和 flypy.head
 
 3. 执行 make 重新生成 flypy.mb
+
+4. cp flypy.conf flypy.mb ~/.config/fcitx/table/
