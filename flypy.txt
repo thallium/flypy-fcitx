@@ -28673,6 +28673,7 @@ mwjk	美景
 mwjm	每件
 mwjp	媒介
 mwjq	美酒
+mwju	枚举
 mwju	美剧
 mwjx	每家
 mwjy	美味佳肴
@@ -56713,3 +56714,4 @@ xy	小于
 ytke	约克
 whke	网课
 latn	 辣条
+drdm	端点
