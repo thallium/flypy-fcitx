@@ -17412,7 +17412,7 @@ ihui	尝试
 ihui	常识
 ihuo	常说
 ihut	丑话说在前头
-ihuu	常熟
+ihuu	常数
 ihuy	畅顺
 ihuz	长寿
 ihvh	厂长
@@ -56715,3 +56715,4 @@ ytke	约克
 whke	网课
 latn	 辣条
 drdm	端点
+zfir	字符串
